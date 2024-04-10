@@ -1,5 +1,0 @@
-{
-  "routes": [
-    { "src": "/api/artists", "dest": "src/artists.json" }
-  ]
-}
